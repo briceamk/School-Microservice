@@ -10,7 +10,7 @@
     <description>Aggregator pom project for all School MicroService</description>
     <packaging>pom</packaging>
 
-    <!-- Start - Springy Store Project Owner -->
+    <!-- Start - School MicroService Project Owner -->
     <developers>
         <developer>
             <id>0001</id>
@@ -26,20 +26,20 @@
             </roles>
         </developer>
     </developers>
-    <!-- End - Springy Store Project Owner -->
-    <!-- Start - Springy Store source repository -->
+    <!-- End - School MicroService Project Owner -->
+    <!-- Start - School MicroService source repository -->
     <scm>
-        <connection>https://github.com/briceamk/School-Microservice.git</connection>
-        <developerConnection>git@github.com:briceamk/School-Microservice.git</developerConnection>
+        <connection>https://github.com/briceamk/School-Microservices.git</connection>
+        <developerConnection>git@github.com:briceamk/School-Microservices.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
-    <!-- End - Springy Store source repository -->
-    <!-- Start - Springy Store issue management -->
+    <!-- End - School MicroService source repository -->
+    <!-- Start - School MicroService issue management -->
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/briceamk/School-Microservice/issues</url>
+        <url>https://github.com/briceamk/School-Microservices/issues</url>
     </issueManagement>
-    <!-- End - Springy Store issue management -->
+    <!-- End - School MicroService issue management -->
     <properties>
         <maven.install.skip>true</maven.install.skip>
         <maven.deploy.skip>true</maven.deploy.skip>
