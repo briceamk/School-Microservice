@@ -5,12 +5,12 @@
 
     <groupId>cm.amk.ms.school</groupId>
     <artifactId>school-aggregator</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <name>School Aggregator</name>
-    <description>Aggregator pom project for all School MicroService</description>
+    <description>Aggregator pom project for all School μService</description>
     <packaging>pom</packaging>
 
-    <!-- Start - School MicroService Project Owner -->
+    <!-- Start - School μService Project Owner -->
     <developers>
         <developer>
             <id>0001</id>
@@ -26,20 +26,20 @@
             </roles>
         </developer>
     </developers>
-    <!-- End - School MicroService Project Owner -->
-    <!-- Start - School MicroService source repository -->
+    <!-- End - School μService Project Owner -->
+    <!-- Start - School μService source repository -->
     <scm>
         <connection>https://github.com/briceamk/School-Microservices.git</connection>
         <developerConnection>git@github.com:briceamk/School-Microservices.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
-    <!-- End - School MicroService source repository -->
-    <!-- Start - School MicroService issue management -->
+    <!-- End - School μService source repository -->
+    <!-- Start - School μService issue management -->
     <issueManagement>
         <system>GitHub</system>
         <url>https://github.com/briceamk/School-Microservices/issues</url>
     </issueManagement>
-    <!-- End - School MicroService issue management -->
+    <!-- End - School μService issue management -->
     <properties>
         <maven.install.skip>true</maven.install.skip>
         <maven.deploy.skip>true</maven.deploy.skip>
